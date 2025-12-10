@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://c.tenor.com/tLNeXXuNJikAAAAd/tenor.gif" width="260" alt="gif"/>
+  <img src="https://c.tenor.com/tLNeXXuNJikAAAAd/tenor.gif" width="400" alt="gif"/>
   
   # 👋 Hi, I’m **FluxShard**
 </div>
