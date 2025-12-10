@@ -1,16 +1,35 @@
-## Hi there 👋
+# FluxShard 👾
 
-<!--
-**flux-shard/flux-shard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity & software enthusiast with a strong Linux background.  
+Focused on learning through practice: building systems, breaking them, and fixing the weak spots.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Python, C++
+- **Systems:** Linux (daily driver)
+- **Interests:** Cybersecurity, DevSecOps, system internals, tooling
+
+---
+
+## 🎯 What I Do
+- Explore cybersecurity fundamentals and practical attack/defense concepts  
+- Build small tools and experiments to understand how things work under the hood  
+- Learn by doing, documenting, and improving
+
+---
+
+## 📚 Currently Learning
+- Secure software development principles  
+- DevSecOps workflows and automation  
+- Deeper Linux internals and low-level behavior
+
+---
+
+## 🌐 Links
+- Telegram: https://t.me/FluxShard  
+- TikTok: https://tiktok.com/@FluxShard
+
+---
+
+> “Learning by building, breaking, and fixing.”
