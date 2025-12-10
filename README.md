@@ -78,9 +78,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=flux-shard&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=flux-shard&theme=tokyonight&hide_border=true" height="160" />
 
-<img src="https://streak-stats.demolab.com?user=flux-shard&theme=tokyonight&hide_border=true" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=flux-shard&theme=tokyonight&hide_border=true" height="160" />
+
 
 </div>
 
