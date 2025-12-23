@@ -1,9 +1,8 @@
 <div align="center">
-  <div class="tenor-gif-embed" data-postid="7424688358332580632" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/simo-haya-gif-7424688358332580632">Simo Haya GIF</a>from <a href="https://tenor.com/search/simo+haya-gifs">Simo Haya GIFs</a></div>
+  <img src="https://tenor.com/view/hacker-hacking-anonymous-computer-dark-gif-24573642.gif" width="400" />
+
   <h1>👋 Hi, I’m <b>Moro</b></h1>
 </div>
-
-<div align="center">
 
 ### 🌐 Connect with Me
 
