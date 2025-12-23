@@ -1,7 +1,7 @@
 <div align="center">
    <img src="02f0ca5bc225e6ad53cdbae451bfd298.jpg" width="400" />
 
-  <h1>⚪️ Hi, I’m <b>Moro</b></h1>
+   <h1>⚪️ Hi, I’m <b>Moro</b></h1>
 </div>
 
 ### 🌐 Connect with Me
